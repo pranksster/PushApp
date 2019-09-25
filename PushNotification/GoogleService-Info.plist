@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>416634359348-82pabepjr2ev920vendpi2irdkoha01s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.416634359348-82pabepjr2ev920vendpi2irdkoha01s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCYQaZ0DbirtIO3sc1TQ4SHQgYHk7x5yo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>416634359348</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.personal.devsunny</string>
+	<key>PROJECT_ID</key>
+	<string>push-notif-b37ca</string>
+	<key>STORAGE_BUCKET</key>
+	<string>push-notif-b37ca.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:416634359348:ios:a4fdbde529f2f14a1a0461</string>
+	<key>DATABASE_URL</key>
+	<string>https://push-notif-b37ca.firebaseio.com</string>
+</dict>
+</plist>
